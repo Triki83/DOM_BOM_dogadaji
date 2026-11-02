@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 450px;
+    margin: 80px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #333333;
+}
+
+input {
+    padding: 12px;
+    width: 80%;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
+}
+
+hr {
+    margin: 25px 0;
+}
+
+#poruka {
+    color: green;
+    font-weight: bold;
+}
