@@ -37,3 +37,9 @@ hr {
     color: green;
     font-weight: bold;
 }
+
+#adresa {
+    font-size: 14px;
+    color: #555555;
+    overflow-wrap: anywhere;
+}
